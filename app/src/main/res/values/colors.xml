@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="brand_main">#33B5E5</color>
+    <color name="text">#333333</color>
+    <color name="text_de_emphasized">#666666</color>
+    <color name="text_faint">#999999</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#29B18A</color>
+    <color name="top_color">#212F3E</color>
+    <color name="bottom_color">#28384B</color>
+</resources>
